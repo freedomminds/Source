@@ -1,0 +1,90 @@
+1.Getting Started
+
+00:00:00 1.What is OOP
+00:01:45 2.Four Pillars of OOP
+00:08:47 3.Setting up the Development Environment
+00:11:04 4.Course Structure
+
+2.Objects
+
+00:00:00 1.Introduction
+00:00:44 2.Object Literals
+00:03:48 3.Factories
+00:06:39 4.Constructors
+00:12:15 5.Constructor Property
+00:14:40 6.Functions are Objects
+00:19:27 7.Value vs Reference Types
+00:25:17 8.Adding or Removing Properties
+00:29:10 9.Enumerating Properties
+00:31:59 10.Abstraction
+00:36:02 11.Private Properties and Methods
+00:40:07 12.Getters and Setters
+00:45:43 13.Exercise - Stop Watch
+00:47:52 14.Solution - Stipwatch
+
+3.Prototypes
+
+00:00:00 1.Inheritance
+00:02:26 2.Prorotypes and Prototypical Inheritance
+00:07:59 3.Multi-Level Inheritance
+00:10:50 4.Property Descriptors
+00:15:59 5.Constructor Prototypes
+00:19:50 6.Prototype vs. instance Members
+00:25:54 7.Iterating Instance and Prototype Members
+00:28:33 8.Avoid Extending the Build in Objects
+00:30:15 9.Exercise
+00:31:48 10.Solution
+
+4.Prototypical Inheritance
+
+00:00:00 1.Creating Your Own Prototypical Inheritance
+00:05:34 2.Resetting the Constructor
+00:09:35 3.Calling the Super Constructor
+00:13:24 4.Intermediate Function Inheritance
+00:16:29 5.Method Overriding
+00:19:58 6.Polymorphism
+00:24:21 7.When to Use Inheritance
+00:27:44 8.Mixins
+00:33:37 10.Exercise Prototypical Inheritance
+00:36:56 11.Solution Protoypical Inheritance
+00:42:49 12.Exercise - Polymorphism
+00:45:25 13.Solutionn - Polymorphism
+
+5.ES6 Classes
+
+00:00:00 1.ES6 Classes
+00:05:41 2.Hoisting
+00:09:27 3.Static Methods
+00:13:44 4.The This Keyword
+00:18:41 5.Private Members Using Symbols
+00:26:30 6.Private members Using WeakMaps
+00:33:28 7.Getters and Setters
+00:36:18 8.Inheritance
+00:40:19 9.Method Riding
+00:42:53 11.Exercise
+00:46:17 12.Solution
+
+6.ES6 Modules
+
+00:00:00 1.Modules
+00:03:42 2.CommonJS Modules
+00:09:33 3.ES6 Modules
+00:12:57 4.ES6 Tooling
+00:14:24 5.Babel
+00:21:39 6.Webpack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
